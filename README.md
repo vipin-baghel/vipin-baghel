@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi👋, I am Vipin
 
-<!--
-**vipin-baghel/vipin-baghel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in AI/ML, IOT and backend development with python.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning FastAPI and microservice architecture solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on backend development projects.
+
+💬 Ask me about testcase automation with python.
+
+---
+## Get in Touch
+Email - vipinbaghel1999@gmail.com
+
+LinkedIn - https://www.linkedin.com/in/vipin-b-817a85137
+
+---
+## My Skills
+Programming & Markup languages: **Python, Html, Css, XML, JSON**
+
+Backend frameworks: **FastAPI, Django**
+
+Database: **MS SQL, CockroachDB, MongoDB**
+
+Testing: **Robot Framework, Selenium, PyTest**
+
+Deployment & Cloud: **Docker, AWS**
+
+
+
