@@ -14,6 +14,8 @@ Email - vipinbaghel1999@gmail.com
 
 LinkedIn - https://www.linkedin.com/in/vipin-b-817a85137
 
+Twitter - https://x.com/vipinbaghel1999
+
 ---
 ## My Skills
 Programming & Markup languages: **Python, Html, Css, XML, JSON**
