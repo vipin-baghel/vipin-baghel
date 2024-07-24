@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on backend development projects.
 
-💬 Ask me about testcase automation with python.
+💬 Ask me about test automation with python.
 
 ---
 ## Get in Touch
