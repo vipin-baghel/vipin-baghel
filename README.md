@@ -12,7 +12,7 @@
 ## Get in Touch
 Email - vipinbaghel1999@gmail.com
 
-LinkedIn - https://www.linkedin.com/in/vipin-b-817a85137
+LinkedIn - https://www.linkedin.com/in/vipinbaghel1999
 
 Twitter - https://x.com/vipinbaghel1999
 
