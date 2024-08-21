@@ -2,7 +2,7 @@
 
 👀 I’m interested in AI/ML, IOT and backend development with python.
 
-🌱 I’m currently learning FastAPI and microservice architecture solutions.
+🌱 I’m currently learning AI/ML concepts and practicing DSA.
 
 👯 I’m looking to collaborate on backend development projects.
 
