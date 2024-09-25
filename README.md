@@ -36,25 +36,8 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <!-- Contributions -->
-<!--       <a href="#" style="pointer-events: none;">
-        <img src="contributions.svg" />
-      </a> -->
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <!-- Visitor Count -->
-      <div style="text-align: center; padding: 20px;">
-        <p style="font-size: 18px; color: white; margin: 0;">
-          Visitor's Count
-        </p>
-        <img src="https://profile-counter.glitch.me/_vipin-baghel/count.svg" style="margin-top: 10px;"/>
-      </div>
-    </td>
-  </tr>
+  
+
 </table>
 
 
