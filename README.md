@@ -1,11 +1,11 @@
 
 ## Hi👋, I am Vipin
 
-👀 I’m interested in AI/ML, IOT and backend development with python.
+👀 I’m interested in AI/ML, IOT and software development with python.
 
-🌱 I’m currently learning AI/ML concepts and practicing DSA.
+🌱 I’m currently uskilling in Data Engineering concepts and developing software with Django.
 
-👯 I’m looking to collaborate on backend development projects.
+👯 I’m looking to collaborate on Software development projects using python.
 
 💬 Ask me about test automation with python.
 
