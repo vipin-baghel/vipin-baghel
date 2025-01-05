@@ -3,7 +3,7 @@
 
 👀 I’m interested in AI/ML, IOT and software development with python.
 
-🌱 I’m currently uskilling in Data Engineering concepts and developing software with Django.
+🌱 I’m currently upskilling in Data Engineering concepts and developing software with Django.
 
 👯 I’m looking to collaborate on Software development projects using python.
 
