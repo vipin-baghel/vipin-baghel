@@ -3,11 +3,9 @@
 
 👀 I’m interested in AI/ML, IOT and software development with python.
 
-🌱 I’m currently upskilling in Data Engineering concepts and developing software with Django.
+🌱 I’m currently upskilling in DevOps and developing softwares with Django.
 
 👯 I’m looking to collaborate on Software development projects using python.
-
-💬 Ask me about test automation with python.
 
 ---
 
@@ -48,11 +46,9 @@ Email - vipinbaghel1999@gmail.com
 
 LinkedIn - https://www.linkedin.com/in/vipinbaghel1999
 
-Twitter - https://x.com/vipinbaghel1999
-
 ---
 ## My Skills
-Programming languages: **Python, Java, Kotlin**
+Programming languages: **Python**
 
 Backend frameworks: **FastAPI, Django**
 
