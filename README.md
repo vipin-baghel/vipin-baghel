@@ -54,7 +54,7 @@ Backend frameworks: **FastAPI, Django**
 
 Database: **MS SQL, CockroachDB, MongoDB**
 
-Testing: **Robot Framework, Selenium, PyTest**
+Testing: **Robot Framework, Playwright, Selenium, PyTest**
 
 Deployment & Cloud: **Docker, AWS**
 
