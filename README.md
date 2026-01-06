@@ -1,63 +1,82 @@
+<!-- Header / Title -->
+<h1 align="center">Hi 👋, I'm Vipin</h1>
+<h3 align="center">SDET | QA Automation | Python | BFSI</h3>
 
-## Hi👋, I am Vipin
+<p align="center">
+  <a href="mailto:vipinbaghel1705@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vipinbaghel1705%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vipinbaghel1999" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vipin%20Baghel-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vipinbaghel1999&style=flat&color=blue" alt="profile views" />
+</p>
 
-👀 I’m interested in AI/ML, IOT and software development with python.
+---
 
-🌱 I’m currently upskilling in DevOps and developing softwares with Django.
+## About Me
 
-👯 I’m looking to collaborate on Software development projects using python.
+- Quality Engineer / SDET with **4+ years** of experience testing complex software systems in the BFSI and payments domain.  
+- Hands-on with manual testing and automation using Python, Robot Framework, Selenium, and REST API validation.  
+- Enjoy building backend systems with Python, Django, and FastAPI, and exploring emerging tech like AI, LLMs, and modern dev tools.
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <!-- Stats -->
-      <a href="#" style="pointer-events: none;">
-        <img width='500px' src="https://my-stats-43gk.vercel.app/api?username=vipin-baghel&show_icons=true&theme=onedark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-      </a>
-    </td>
-    <td align="center">
-      <!-- Awards -->
-      <img width='500px' src="https://github-profile-trophy.vercel.app/?username=vipin-baghel&theme=onedark&no-frame=true&title=Stars,Followers,Commits,&row=2&column=3"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- Streak -->
-      <img width='500px' src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=vipin-baghel&theme=onedark"/>
-    </td>
-    <td align="center">
-      <!-- Language -->
-      <a href="#" style="pointer-events: none;">
-        <img width='500px' src="https://my-stats-43gk.vercel.app/api/top-langs/?username=vipin-baghel&hide=html,scss,css,procfile&langs_count=8&layout=compact&theme=onedark&card_width=150" />
-      </a>
-    </td>
-  </tr>
-  
+## Work Experience
 
-</table>
+- **Tata Consultancy Services (TCS)** — Quality Engineer  
+  *Sept 2023 – Nov 2025*  
+  - Automated web and API test scenarios using Python, Selenium, and Robot Framework for BFSI projects.  
+  - Collaborated with dev and BA teams using BRDs/FSDs to design high-coverage test suites and regression packs.  
 
-
+- **CoreCard Software Pvt. Ltd.** — QA Engineer  
+  *Feb 2021 – Jun 2023*  
+  - Built and maintained UI automation suites with Robot Framework and Selenium, automating 100+ test cases.  
+  - Performed functional, regression, and integration testing for credit card and payment systems, including REST APIs.
 
 ---
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
+
+### Backend Frameworks
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+### Testing & QA
+<p>
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=flat&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LoadRunner-00AEEF?style=flat" />
+</p>
+
+### DevOps, Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" />
+</p>
+
+---
+
 ## Get in Touch
-Email - vipinbaghel1999@gmail.com
 
-LinkedIn - https://www.linkedin.com/in/vipinbaghel1999
-
----
-## My Skills
-Programming languages: **Python**
-
-Backend frameworks: **FastAPI, Django**
-
-Database: **MS SQL, CockroachDB, MongoDB**
-
-Testing: **Robot Framework, Playwright, Selenium, PyTest**
-
-Deployment & Cloud: **Docker, AWS**
-
-
-
-
+- 📫 Email: **[vipinbaghel1705@gmail.com](mailto:vipinbaghel1705@gmail.com)**  
+- 💼 LinkedIn: **[linkedin.com/in/vipinbaghel1999](https://www.linkedin.com/in/vipinbaghel1999)**  
