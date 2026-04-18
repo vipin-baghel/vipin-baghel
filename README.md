@@ -16,13 +16,17 @@
 
 ## About Me
 
-- Quality Engineer / SDET with **4+ years** of experience testing complex software systems in the BFSI and payments domain.  
+- Quality Engineer / SDET with **5+ years** of experience testing complex software systems in the BFSI and payments domain.  
 - Hands-on with manual testing and automation using Python, Robot Framework, Selenium, and REST API validation.  
 - Enjoy building backend systems with Python, Django, and FastAPI, and exploring emerging tech like AI, LLMs, and modern dev tools.
 
 ---
 
 ## Work Experience
+
+- **Affine AI** — QA Engineer  
+  *Jan 2026 – Present*  
+  - Responsible for QAing the training data for AI agents targeting different domains like Healthcare, Credit card, Property management,        Hotel management and Car sales.
 
 - **Tata Consultancy Services (TCS)** — Quality Engineer  
   *Sept 2023 – Nov 2025*  
