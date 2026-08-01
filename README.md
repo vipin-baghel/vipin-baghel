@@ -24,7 +24,7 @@
 
 ## Work Experience
 
-- **Affine AI** — QA Engineer  
+- **Patronus AI** — QA Engineer  
   *Jan 2026 – Present*  
   - Responsible for QAing the training data for AI agents targeting different domains like Healthcare, Credit card, Property management,        Hotel management and Car sales.
 
