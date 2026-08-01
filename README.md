@@ -16,7 +16,7 @@
 
 ## About Me
 
-- Quality Engineer / SDET with **5+ years** of experience testing complex software systems in the BFSI and payments domain.  
+- Quality Engineer / SDET with **5+ years** of experience testing complex software systems in the BFSI and Agentic AI domain.  
 - Hands-on with manual testing and automation using Python, Robot Framework, Selenium, and REST API validation.  
 - Enjoy building backend systems with Python, Django, and FastAPI, and exploring emerging tech like AI, LLMs, and modern dev tools.
 
